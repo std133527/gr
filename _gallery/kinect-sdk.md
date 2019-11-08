@@ -1,3 +1,4 @@
+---
 author: kostaskapa
 title: kinect-sdk
 image_url: /images/kinect-sdk.jpg
