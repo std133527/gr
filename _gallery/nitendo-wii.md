@@ -1,3 +1,4 @@
+---
 author: kostaskapa
 title: nitendo-wii
 image_url: /images/nitendo-wii.jpg
