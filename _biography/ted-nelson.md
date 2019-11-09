@@ -21,4 +21,4 @@ gallery:
 
 {% include_relative bio-nelson.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Mark Weiser" %}
+{% include slides.html caption="Εικόνες για την βιογραφία του Ted Nelson" %}
