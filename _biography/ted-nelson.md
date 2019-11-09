@@ -16,7 +16,7 @@ gallery:
   - image_url: /images/nelson.jpg
     caption: "Ο Ted Nelson παρουσιάζει το Project Xanadu για το SuperHappyDevHouse στο Τεχνολογικό Μουσείο Καινοτομίας στις 19 Φεβρουαρίου 2011."
   - image_url: /images/ted-nelson-hypertext.png
-    caption: "Ο Ted Nelson είναι διάσημος για την εξήγηση των όρων "hypertext" και "hypermedia"."
+    caption: "Ο Ted Nelson είναι διάσημος για την εξήγηση των όρων 'hypertext' και 'hypermedia'."
 ---
 
 {% include_relative bio-nelson.md %}
